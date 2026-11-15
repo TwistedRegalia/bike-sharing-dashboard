@@ -1,1 +1,1 @@
-Dashboard URL: (isi dengan tautan Streamlit Community Cloud setelah deploy, contoh: https://nama-app-anda.streamlit.app)
+Dashboard URL: https://regalia-bike-sharing.streamlit.app/
